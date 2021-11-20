@@ -1,0 +1,1 @@
+# AI-Based-Natural-Disaster-Intensity-Analysis-using-IBM-Watson-studio
